@@ -1,0 +1,52 @@
+{
+  "name": "cinema-ticket",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Cinema ticket",
+  "main": "N/A",
+  "repository": "https://github.com/ekaone/cinema-ticket-101.git",
+  "bugs": "https://github.com/ekaone/cinema-ticket-101/issues",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.3",
+    "next": "10.0.5",
+    "next-seo": "^4.17.0",
+    "postcss": "^8.2.4",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.2.1",
+    "postcss": "8.2.3",
+    "stylelint-config-recommended": "3.0.0",
+    "tailwindcss": "2.0.2"
+  },
+  "engines": {
+    "node": ">= 12.0.0",
+    "yarn": ">= 1.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "author": {
+    "name": "Eka Prasetia",
+    "twitter": "@dannyeka",
+    "url": "https://ekaprasetia.com"
+  },
+  "keywords": [
+    "cinema",
+    "ticket",
+    "eka",
+    "prasetia",
+    "nextjs"
+  ]
+}

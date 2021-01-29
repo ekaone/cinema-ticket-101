@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://cinema-ticket.vercel.app/sitemap.xml
