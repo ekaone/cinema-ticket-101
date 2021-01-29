@@ -4,16 +4,16 @@ const description = "Cinema Ticket, order your ticket for awesome movies.";
 const SEO = {
   title,
   description,
-  canonical: "https://cinema-ticket.vercel.app",
+  canonical: "https://cinema-ticket-101.vercel.app",
   openGraph: {
     type: "website",
     locale: "id_ID",
-    url: "https://cinema-ticket.vercel.app",
+    url: "https://cinema-ticket-101.vercel.app",
     title,
     description,
     images: [
       {
-        url: "https://cinema-ticket.vercel.app/images/banner.png",
+        url: "https://cinema-ticket-101.vercel.app/images/banner.png",
         alt: title,
         width: 1024,
         height: 1024,

@@ -10,7 +10,7 @@ export default function Home() {
 
       <div className="text-red-600">Cinema</div>
       <div className="text-green-500">Ticket..</div>
-      <div className="text-green-500">Under Construction</div>
+      <div className="text-yellow-500">Under Construction</div>
     </div>
   );
 }
