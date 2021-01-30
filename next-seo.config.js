@@ -1,4 +1,4 @@
-const title = "Cinema Ticket";
+const title = "101 📽 Cinema";
 const description = "Cinema Ticket, order your ticket for awesome movies.";
 
 const SEO = {
@@ -7,7 +7,7 @@ const SEO = {
   canonical: "https://cinema-ticket-101.vercel.app",
   openGraph: {
     type: "website",
-    locale: "id_ID",
+    locale: "en_EN",
     url: "https://cinema-ticket-101.vercel.app",
     title,
     description,

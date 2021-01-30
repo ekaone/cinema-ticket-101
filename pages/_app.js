@@ -14,7 +14,7 @@ function App({ Component, pageProps }) {
           sizes="96x96"
           href="/favicons/favicon.png"
         />
-        <link rel="canonical" href="https://cinema-ticket.com" />
+        <link rel="canonical" href="https://cinema-ticket-101.vercel.app" />
         <meta name="theme-color" content="#2BB0EC" />
       </Head>
       <DefaultSeo {...SEO} />
