@@ -9,8 +9,8 @@ export default function Home() {
       </Head>
 
       <Container>
-        <Header />
-        <Movies />
+        {/* <Header /> */}
+        {/* <Movies /> */}
         <Seats />
       </Container>
     </div>
